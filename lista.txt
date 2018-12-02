@@ -6,3 +6,5 @@ Cervezas
 Aceitunas
 Vino
 Fuet
+patatas
+Frutos secos
