@@ -151,6 +151,7 @@ namespace Programas
             }
 
             #endregion
+                
 
             #region Ejercicio 5
             /* Crea un programa que muestre en pantalla la siguiente pirámide: 
